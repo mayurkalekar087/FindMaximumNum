@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\FindMaximumNum\FindMaximumNum\bin\Debug\netcoreapp3.1\FindMaximumNum.exe
+C:\Users\ASUS\source\repos\FindMaximumNum\FindMaximumNum\bin\Debug\netcoreapp3.1\FindMaximumNum.deps.json
+C:\Users\ASUS\source\repos\FindMaximumNum\FindMaximumNum\bin\Debug\netcoreapp3.1\FindMaximumNum.runtimeconfig.json
+C:\Users\ASUS\source\repos\FindMaximumNum\FindMaximumNum\bin\Debug\netcoreapp3.1\FindMaximumNum.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\FindMaximumNum\FindMaximumNum\bin\Debug\netcoreapp3.1\FindMaximumNum.dll
+C:\Users\ASUS\source\repos\FindMaximumNum\FindMaximumNum\bin\Debug\netcoreapp3.1\FindMaximumNum.pdb
+C:\Users\ASUS\source\repos\FindMaximumNum\FindMaximumNum\obj\Debug\netcoreapp3.1\FindMaximumNum.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\FindMaximumNum\FindMaximumNum\obj\Debug\netcoreapp3.1\FindMaximumNum.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\FindMaximumNum\FindMaximumNum\obj\Debug\netcoreapp3.1\FindMaximumNum.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\FindMaximumNum\FindMaximumNum\obj\Debug\netcoreapp3.1\FindMaximumNum.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\FindMaximumNum\FindMaximumNum\obj\Debug\netcoreapp3.1\FindMaximumNum.dll
+C:\Users\ASUS\source\repos\FindMaximumNum\FindMaximumNum\obj\Debug\netcoreapp3.1\FindMaximumNum.pdb
+C:\Users\ASUS\source\repos\FindMaximumNum\FindMaximumNum\obj\Debug\netcoreapp3.1\FindMaximumNum.genruntimeconfig.cache
